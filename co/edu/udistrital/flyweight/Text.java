@@ -1,5 +1,4 @@
 package co.edu.udistrital.flyweight;
-
 /**
  * Represents a fragment of text (with extrinsic state referencing a TextStyle flyweight).
  */
