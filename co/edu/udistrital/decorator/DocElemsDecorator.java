@@ -1,5 +1,8 @@
 package co.edu.udistrital.decorator;
 
+import co.edu.udistrital.bridge.Report;
+import co.edu.udistrital.flyweight.Text;
+
 /**
  * Abstract decorator that wraps a Report.
  */

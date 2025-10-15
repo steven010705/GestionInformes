@@ -1,5 +1,10 @@
 package co.edu.udistrital.proxy;
 
+import co.edu.udistrital.bridge.Exporter;
+import co.edu.udistrital.bridge.Report;
+import co.edu.udistrital.decorator.DocElemsDecorator;
+import co.edu.udistrital.flyweight.Text;
+
 /**
  * Proxy for controlling access to a Report (e.g., only ADMIN can add decorators).
  */
