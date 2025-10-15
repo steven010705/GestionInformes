@@ -20,6 +20,10 @@ public class ReportProxy extends Report {
         this.user = user;
     }
 
+    public Report getRealReport() {
+        return realReport;
+    }
+
     /**
      * Try to add a decorator around the real report: only ADMIN allowed.
      * Returns true if decorator was applied/allowed.
