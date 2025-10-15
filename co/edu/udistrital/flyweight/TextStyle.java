@@ -1,5 +1,4 @@
 package co.edu.udistrital.flyweight;
-
 /**
  * Flyweight: the shared intrinsic state
  */
@@ -36,3 +35,4 @@ public class TextStyle {
                 '}';
     }
 }
+

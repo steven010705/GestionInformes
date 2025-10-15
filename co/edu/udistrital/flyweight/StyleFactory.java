@@ -2,7 +2,6 @@ package co.edu.udistrital.flyweight;
 
 import java.util.HashMap;
 import java.util.Map;
-
 /**
  * Flyweight factory - returns shared TextStyle instances
  */
